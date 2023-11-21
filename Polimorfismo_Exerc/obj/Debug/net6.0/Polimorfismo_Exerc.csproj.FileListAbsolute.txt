@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\bin\Debug\net6.0\Polimorfismo_Exerc.exe
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\bin\Debug\net6.0\Polimorfismo_Exerc.deps.json
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\bin\Debug\net6.0\Polimorfismo_Exerc.runtimeconfig.json
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\bin\Debug\net6.0\Polimorfismo_Exerc.dll
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\bin\Debug\net6.0\Polimorfismo_Exerc.pdb
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.AssemblyInfo.cs
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.dll
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\refint\Polimorfismo_Exerc.dll
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.pdb
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\Polimorfismo_Exerc.genruntimeconfig.cache
+C:\Users\User\Desktop\Programação\Polimorfismo_Exerc\Polimorfismo_Exerc\obj\Debug\net6.0\ref\Polimorfismo_Exerc.dll
